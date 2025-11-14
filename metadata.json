@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Alphabet for Kids",
+  "description": "A fun, interactive, and accessible web application for children to learn the English alphabet. Each letter tile plays phonetic sounds, shows a related image, and supports Text-to-Speech as a fallback. Features include mute/unmute and a 'play all' mode.",
+  "requestFramePermissions": []
+}
